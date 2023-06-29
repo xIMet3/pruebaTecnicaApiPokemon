@@ -1,0 +1,11 @@
+.pikachuCard {
+    border: 0.2em solid black;
+    height: auto;
+    width: auto;
+    max-width: 15em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    background-color: lightyellow;
+    font-weight: bold;
+}
